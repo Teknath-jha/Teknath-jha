@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teknath-jha](https://github.com/Teknath-jha)
 
-- 📫 How to reach me **teknath1001@gmail.com**
+- 📫 How to reach me **(https://www.linkedin.com/in/teknath-jha-2a6148197/)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11BstqNam-hnqtxEuR28ovnatWRUhKqqE/view](https://drive.google.com/file/d/11BstqNam-hnqtxEuR28ovnatWRUhKqqE/view)
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/teknath jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teknath jha" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/teknath-jha-2a6148197/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teknath jha" height="30" width="40" /></a>
 <a href="https://instagram.com/teknath.jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teknath.jha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/teknath64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="teknath64" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/teknath_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="teknath_jha" height="30" width="40" /></a>
