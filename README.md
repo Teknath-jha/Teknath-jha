@@ -1,16 +1,14 @@
 
 <h1 align="center">Hi , I'm Teknath Jha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A Student for life!</h3>
+<h3 align="center">student for life!</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently exploring **computer fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teknath-jha](https://github.com/Teknath-jha)
 
 - 📫 How to reach me **https://www.linkedin.com/in/teknath-jha-2a6148197/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11BstqNam-hnqtxEuR28ovnatWRUhKqqE/view](https://drive.google.com/file/d/11BstqNam-hnqtxEuR28ovnatWRUhKqqE/view)
-
-- ⚡ Fun fact **TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
